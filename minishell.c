@@ -13,7 +13,7 @@ void	ft_putstr(char *str)
 
 int	main(void)
 {
-	printf("Hola Mundo!");	
+	printf("Hoooola Mundo Cruel!");	
 	ft_putstr("test");
 	return (0);
 }
